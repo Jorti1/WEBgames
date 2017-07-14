@@ -1,4 +1,4 @@
-p {
+h5 {
     color: black;
     font-family: Lato;
     font-size: 30px;
@@ -8,5 +8,11 @@ h1 {
     color: black;
     font-family: Lato;
     font-size: 50
+    text-align: center;
+}
+i {
+    color: black;
+    font-family: Lato;
+    font-size: 30px;
     text-align: center;
 }
