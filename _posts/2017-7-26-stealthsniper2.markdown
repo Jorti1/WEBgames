@@ -4,7 +4,7 @@ title: Stealthsniper2
 permalink: /games/stealthsniper2/
 ---
 <head>
-<link rel="stylesheet" type="text/css" href="games.css">
+<link rel="stylesheet" type="text/css" href="game.css">
 </head>
 <h1> Stealth Sniper 2</h1>
 <p>Your mission: to eliminate criminals. Your weapon: a sniper rifle. Be careful not to alert your targets! If they become too alert or manage to get away, you will fail the mission.</p>
